@@ -30,3 +30,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+## folders
+build/
+.idea/
+
+## files
+*.class
+.DS_Store
+
